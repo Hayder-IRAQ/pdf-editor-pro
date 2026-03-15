@@ -1,0 +1,5 @@
+# PDF Editor Pro v3.0 — Dependencies
+# Install with: pip install -r requirements.txt
+
+PyMuPDF>=1.23.0
+Pillow>=9.0.0
